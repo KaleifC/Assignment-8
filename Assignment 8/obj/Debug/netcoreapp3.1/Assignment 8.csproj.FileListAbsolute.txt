@@ -1,0 +1,19 @@
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.exe
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.deps.json
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.runtimeconfig.json
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.runtimeconfig.dev.json
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.dll
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.pdb
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.csproj.AssemblyReference.cache
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.AssemblyInfoInputs.cache
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.AssemblyInfo.cs
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 8.StaticWebAssets.Manifest.cache
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.RazorTargetAssemblyInfo.cache
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.dll
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.pdb
+C:\Users\kalth\source\repos\Assignment 8\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.genruntimeconfig.cache
